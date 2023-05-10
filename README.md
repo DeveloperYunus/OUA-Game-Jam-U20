@@ -1,6 +1,8 @@
 # OUA-GameJAM-U20
 # AKADEMİ FIGHTER
  
+- Oyun ve Ugulama Akademisi Game jam için 3 kişi ile 72 saatte yaptığımız oyun.
+
 Hazır Kullanılan Assetler
 
 Ses assetleri
