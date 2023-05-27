@@ -15,4 +15,6 @@ https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
 
 Çizimleri kendimiz yaptık. Kodları kendimiz yazdık.
 
-https://www.youtube.com/watch?v=72S1mpKRuck
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=72S1mpKRuck "Now in Android: 55")    // Video Link
