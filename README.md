@@ -14,3 +14,5 @@ https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-5
 https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
 
 Çizimleri kendimiz yaptık. Kodları kendimiz yazdık.
+
+https://www.youtube.com/watch?v=72S1mpKRuck
