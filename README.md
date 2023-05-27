@@ -2,19 +2,16 @@
 # AKADEMİ FIGHTER
  
 - Oyun ve Ugulama Akademisi Game jam için 3 kişi ile 72 saatte yaptığımız oyun.
-
-Hazır Kullanılan Assetler
+- Çizimleri kendimiz yaptık. Kodları kendimiz yazdık.
+- 
+  Hazır Kullanılan Assetler
 
 Ses assetleri
-
 FREE Casual Game SFX Pack
 https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116
 
 8Bit Music - 062022
 https://assetstore.unity.com/packages/audio/music/8bit-music-062022-225623
 
-Çizimleri kendimiz yaptık. Kodları kendimiz yazdık.
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=72S1mpKRuck "Now in Android: 55")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
